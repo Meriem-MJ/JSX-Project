@@ -1,6 +1,7 @@
 import './App.css';
 import './styles.css';
 
+
 function App() {
   return (
     <>
@@ -10,11 +11,11 @@ function App() {
           
           <br/>
 
-          <img src="/imageInSrc.jpg" alt="image1" />
+          <img src="./image1.png" alt="image1" />
 
           <br/>
 
-          <img src="/imageInPublic.jpg" alt="image2" />
+          <img src="/image2.png" alt="image2" />
    
       </div>
 
