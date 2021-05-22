@@ -13,7 +13,7 @@ function App() {
           
           <br/>
 
-          <img src={image1.png} alt="image1" />
+          <img src={image1} alt="image1" />
 
           <br/>
 
