@@ -1,5 +1,7 @@
 import './App.css';
 import './styles.css';
+import image1 from './image1.png';
+import image2 from '/image2.png';
 
 
 function App() {
@@ -11,11 +13,11 @@ function App() {
           
           <br/>
 
-          <img src="./image1.png" alt="image1" />
+          <img src={image1.png} alt="image1" />
 
           <br/>
 
-          <img src="/image2.png" alt="image2" />
+          <img src={image2.png} alt="image2" />
    
       </div>
 
